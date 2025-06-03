@@ -1,1 +1,11 @@
-qualquer coisa
+1. Crie um programa que imprime "Olá, mundo!".
+2. Some dois números e exiba o resultado.
+3. Verifique se um número é par ou ímpar.
+4. Crie uma função que retorna o maior de três números.
+5. Leia uma lista de nomes e imprima em ordem alfabética.
+
+- [ ] Estudar comandos Git
+- [ ] Criar repositório no GitHub
+- [ ] Clonar repositório
+- [ ] Adicionar arquivo README.md
+- [ ] Fazer primeiro commit
