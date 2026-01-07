@@ -9,3 +9,6 @@
 - [ ] Clonar repositório
 - [ ] Adicionar arquivo README.md
 - [ ] Fazer primeiro commit
+
+Objetivo:
+Desenvolver um sistema simples para cadastrar alunos, armazenar seus dados e listar todos os registros.
